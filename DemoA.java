@@ -8,7 +8,6 @@ public class DemoA {
 	{
 		System.out.println(s1.charAt(i));
 		System.out.println("shgfjgf");
-		
 	}
 	}
 
